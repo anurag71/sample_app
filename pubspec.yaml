@@ -10,6 +10,7 @@ dependencies:
   cupertino_icons: ^0.1.0
   page_view_indicator: ^2.0.0
   video_player: "^0.5.1"
+  tutorial_coach_mark:
 
 dev_dependencies:
   flutter_test:
@@ -34,6 +35,9 @@ flutter:
 
   assets:
       - assets/Login/google_logo.png
+      - assets/Login/fb_login2.png
+#      - assets/Login/google_logo.png
+#      - assets/Login/google_logo.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
